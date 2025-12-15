@@ -47,5 +47,4 @@
 
 ![image](https://github.com/mhy20401/Bank-Management-System-Cpp/assets/99351091/df31d95e-8325-4420-98d8-11f5d97963ba)
 
-## Contributors:
--  Muhammad Hammad Yousaf - mhy20401 (https://github.com/mhy20401)
+
